@@ -3,5 +3,5 @@
 @section('title', 'cursos')
 
 @section('content')
-    <h1>Bienvenido a la pagina cursos por plantilla</h1>
+    <h1>Bienvenido a la pagina cursos por plantillas</h1>
 @endsection()
